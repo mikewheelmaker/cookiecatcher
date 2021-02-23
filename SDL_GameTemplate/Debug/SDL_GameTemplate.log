@@ -1,0 +1,17 @@
+﻿  TextureManager.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\texturemanager.h(2): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Player.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\cookie.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\map.h(2): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Main.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\game.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Health.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\health.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\game.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Cookie.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\player.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+c:\users\miket\desktop\game1\sdl_gametemplate\collision.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
